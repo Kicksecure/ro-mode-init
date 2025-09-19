@@ -1,3 +1,9 @@
+ro-mode-init (3:3.4-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Fri, 19 Sep 2025 16:17:10 +0000
+
 ro-mode-init (3:3.3-1) unstable; urgency=medium
 
   * New upstream version (local package).
