@@ -1,3 +1,9 @@
+commit 16a78ec87a119b22eccab17b5f07ed186594ce36
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Mar 28 09:51:46 2026 +0000
+
+    bumped changelog version
+
 commit 28349d2e49b6db952d39f64889000104b2b4bb07
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Mar 28 05:30:41 2026 -0400
@@ -93,7 +99,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Nov 11 13:41:28 2023 -0500
 
     change license to AGPL-3+
-    
+
     https://forums.whonix.org/t/license-change-to-agplv3/17455
 
 commit a29b37e506c1de80c4970282895cd6d05c347cdb
@@ -335,7 +341,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Jan 21 10:26:00 2020 -0500
 
     remove dependency on live-config-systemd
-    
+
     https://forums.whonix.org/t/whonix-live-mode-amnesia-amnesic-non-persistent-anti-forensics/3894/158
 
 commit aa48d2adfc58a4127ce9c542ee2da30aa84b9218
@@ -367,9 +373,9 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Jan 21 02:48:29 2020 -0500
 
     Replaces: grub-live, grub-default-live
-    
+
     to remove grub-live boot menu entry by uninstalling grub-live package
-    
+
     when ro-mode-init package is installed
 
 commit 88cdd9ba9a3d7c5dcf5e41c1ab94023b611737d6
@@ -467,18 +473,18 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 1 14:32:40 2019 +0000
 
     add improved legal protections clauses
-    
+
     The license for software created by Whonix is the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version with additional terms applicable per GNU GPL version 3 section 7.
-    
+
     The additional terms are based on the Doom 3 license which is Debian refers to as `GPL-3+-with-id-software-additional-terms`, which is Debian DFSG [1] (The Debian Free Software Guidelines) approved and which is therefore suitable for Debian `main`. Whonix made applied minimal changes to it:
-    
+
     * Rewrite `The Doom 3 BFG Edition GPL Source Code` to the more common `this program` which is used throughout the GPL.
     * Added a "trump clause" [2], in other words, any conflicts or disputes between the additional terms and the GPLv3 shall be resolved in favor of the GPLv3 by adding `Notwithstanding any other provision of this License` (as mentioned in GPL FAQ [3]) at the beginning of the additional terms.
-    
+
     [1] https://www.debian.org/social_contract#guidelines
     [2] https://www.fsf.org/news/canonical-updated-licensing-terms
     [3] https://www.gnu.org/licenses/gpl-faq.html#v3Notwithstanding
-    
+
     For more considerations, see also:
     https://www.whonix.org/wiki/Dev/Licensing
 
@@ -513,7 +519,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Jul 27 21:29:31 2018 +0800
 
     Merge pull request #1 from Algernon-01/master
-    
+
     Removed apparmor alias and merged into apparmor-profiles-anondist
 
 commit ec2158e3b66d293e028a94ffe8e5feadda50def9
